@@ -1,5 +1,5 @@
 [package]
-name = "learn-rust-cookbook"
+name = "learn-rust-by-examples"
 version = "0.1.0"
 edition = "2021"
 
